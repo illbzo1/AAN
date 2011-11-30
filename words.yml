@@ -1,40 +1,40 @@
 adj1:
 - super
 - hyper
+- cyber
 - ultra
-- virtual
 - ultimate
-- legendary
 - unforgettable
 - mystical
+- magical
+- mysterious
+- dangerous
 adj2:
 - robotic
 - unruly
-- dangerous
+- teenage
 - nasty
 - cursed
 - rude
 - deep space
 - renegade
 - fearsome
-- mysterious
-- magical
 - karate
 - kung-fu
 noun:
 - turtle
 - wombat
-- showdown
 - action squad
 - wizard
 - polar bear
 - detective
-- operative
+- secret agent
 - werewolf
 - fighter
 - warrior
 - dragon
 prefix:
+- forbidden
 - legend of the
 - return of the
 - cooking with the
@@ -50,6 +50,10 @@ suffix:
 - jr.
 - racing
 - kart
+- trainer
+- showdown
+- in outer space
+- bible adventures
 - big game hunter
 - skeet shooting
 - strikes back
