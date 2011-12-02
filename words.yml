@@ -4,23 +4,25 @@ adj1:
 - cyber
 - ultra
 - ultimate
-- unforgettable
+- giant
+- mega
 - mystical
 - magical
 - mysterious
 - dangerous
 adj2:
+- ancient
 - robotic
 - unruly
-- teenage
 - nasty
+- all star
 - cursed
 - rude
 - deep space
 - renegade
 - fearsome
 - karate
-- kung-fu
+- kung fu
 noun:
 - turtle
 - wombat
@@ -34,12 +36,16 @@ noun:
 - warrior
 - dragon
 prefix:
+- I was a teenage
+- zombies ate my
+- attack of the 50 foot
 - forbidden
 - legend of the
 - return of the
 - cooking with the
 - revenge of the
 - battle of the
+- riddle of the
 - quest of the
 - secret of the
 - tournament of the
@@ -57,9 +63,21 @@ suffix:
 - big game hunter
 - skeet shooting
 - strikes back
-- the revenge
-- back for more
 - surf's up
 - safari
 - world tour
 - beach volleyball
+sequels:
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+sequel_titles:
+- back for more
+- the revenge
+- bad blood
+- desert strike
+- undersea adventure
